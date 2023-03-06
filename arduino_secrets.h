@@ -1,0 +1,3 @@
+#define SECRET_SSID "Desarrollo"
+#define SECRET_OPTIONAL_PASS "Desarrollo2022*"
+#define SECRET_DEVICE_KEY "3UTATLYVHULEFCBE66NH"
